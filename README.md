@@ -121,7 +121,7 @@ modify, and share it with attribution.
 
 If you use this code in your research, please cite:
 
-> *Your Name* (2025). **Random Forest (H2O) with SHAP and AUCPR Optimization**.  
+> Jonas Henn (2025). **Random Forest (H2O) with SHAP and AUCPR Optimization**.  
 > GitHub Repository: [https://github.com/yourusername/rf_h2o_shap](https://github.com/yourusername/rf_h2o_shap)
 
 ---
