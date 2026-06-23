@@ -123,5 +123,6 @@ If you use this code in your research, please cite:
 
 > Jonas Henn (2025). **Random Forest (H2O) with SHAP and AUCPR Optimization**.  
 > GitHub Repository: [https://github.com/boster-hub/pain_model_rf](https://github.com/boster-hub/pain_model_rf)
+> DOI: 10.5281/zenodo.17865087
 
 ---
